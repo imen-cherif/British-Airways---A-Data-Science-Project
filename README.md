@@ -4,4 +4,4 @@ The first part of the project consisted in web scraping tasks to gain customer i
 
 The second task concerned the prediction of customers' buying behaviors, therefore using data manipulation, analysis, and visualization along with machine learning prediction algorithms, namely the random forest algorithm.
 
-
+The entire project was done on Jupyter notebooks.
